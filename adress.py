@@ -26,7 +26,7 @@ def main():
     name = input("Please enter your name:")
     question = input("Do you live in an apartmen? yes or no: ")
     if question.upper() == "Yes" or question.upper() == "YES":
-        apt_num = input("Enter your apartment number dipshit: ")
+        apt_num = input("Enter your apartment number: ")
     str_num = input("Enter your street number:")
     str_name = input("Enter your street name and type: ")
     city = input("Enter your city: ")
